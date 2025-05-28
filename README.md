@@ -21,7 +21,7 @@ To manage user accounts, permissions, and security policies in Active Directory,
 ## 📸 Screenshots
 
 ### 📥 Installing AD DS Role
-![Server Roles](Screenshot%202025-05-27%20163725.png)
+![Server Roles](Screenshot1.png)
 ![Installation Progress](Screenshot%202025-05-27%20164226.png)
 ![Installation Completed](Screenshot%202025-05-27%20164551.png)
 
