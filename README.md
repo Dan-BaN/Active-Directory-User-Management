@@ -22,22 +22,22 @@ To manage user accounts, permissions, and security policies in Active Directory,
 
 ### 📥 Installing AD DS Role
 ![Server Roles](Screenshot1.png)
-![Installation Progress](Screenshot%202025-05-27%20164226.png)
-![Installation Completed](Screenshot%202025-05-27%20164551.png)
+![Installation Progress](Screenshot2.png)
+![Installation Completed](Screenshot3.png)
 
 ### 🌐 Domain Configuration
-![Deployment Configuration](Screenshot%202025-05-27%20164706.png)
+![Deployment Configuration](Screenshot4.png)
 
 ### 🗂️ OU and User Structure
-![Organizational Units](Screenshot%202025-05-27%20164919.png)
+![Organizational Units](Screenshot5.png)
 
 ### 🔒 Group Policy to Disable Task Manager
-![Create GPO](Screenshot%202025-05-27%20162411.png)
-![GPO Setting](Screenshot%202025-05-27%20163312.png)
-![GPO Linking](Screenshot%202025-05-27%20163510.png)
+![Create GPO](Screenshot6.png)
+![GPO Setting](Screenshot7.png)
+![GPO Linking](Screenshot8.png)
 
 ### 🔐 Password Reset and Account Unlock
-![Reset Password](Screenshot%202025-05-27%20133438.png)
+![Reset Password](Screenshot9.png)
 
 ## ✅ Outcome
 Successfully demonstrated user management, group policy enforcement, and account troubleshooting in a domain environment.
